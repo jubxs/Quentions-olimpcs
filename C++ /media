@@ -13,5 +13,3 @@ int main() {
   cout << fixed << setprecision(2) << (float)soma/N << endl;
   return 0;
 }
-
-  
